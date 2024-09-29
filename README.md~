@@ -1,1 +1,5 @@
 # zywang99
+# email:wzy0716@mail.ustc.edu.cn
+# This repository contains simulation code for the Entanglement Transport Protocol DRM-ETP. 
+# The folder "simcode" contains four simulation scenarios involved in the paper. 
+# The folder "qns" is a function library of the SimQN quantum networks simulation platform.
